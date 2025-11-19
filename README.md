@@ -74,7 +74,7 @@ INSERT INTO tblproduct VALUES
 coming soon
 
 
-## 🙋‍♂️ Author
+## Author
 
 **VJ MARITZ**  
 📍 Gauteng, South Africa   
