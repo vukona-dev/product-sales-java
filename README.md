@@ -34,7 +34,7 @@ git clone https://github.com/vukona-dev/product-sales-java.git
 ```
 2. Open in NetBeans
 3. Add MySQL Connector/J
-   - Download from MySQL Connector/J
+   - Download from [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)
    - Add the .jar file to your project’s Libraries
 4. Set Up the Database
    - Start MySQL via XAMPP
@@ -72,5 +72,13 @@ INSERT INTO tblproduct VALUES
 ## Screenshots
 
 coming soon
+
+
+## 🙋‍♂️ Author
+
+**VJ MARITZ**  
+📍 Gauteng, South Africa   
+🔗 [LinkedIn](https://www.linkedin.com/in/vukona-jubby-maritz)  
+
 
 
