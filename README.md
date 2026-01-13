@@ -70,14 +70,14 @@ INSERT INTO tblproduct VALUES
 ```
 
 ## Screenshots
-<img src="Screenshots/product1.png" alt="Image1" width="400"/> <img src="Screenshots/product2.png" alt="Image2" width="400"/>
-<img src="Screenshots/product3.png" alt="Image3" width="400"/> <img src="Screenshots/product4.png" alt="Image4" width="400"/>
+<img src="Screenshots/product1.png" alt="Image1" width="350"/> <img src="Screenshots/product2.png" alt="Image2" width="350"/>
+<img src="Screenshots/product3.png" alt="Image3" width="350"/> <img src="Screenshots/product4.png" alt="Image4" width="350"/>
 
 
 ## Author
 
 **VJ MARITZ**  
-📍 Gauteng, South Africa   
+📍 Olifantsfontein, Gauteng, South Africa  
 🔗 [LinkedIn](https://www.linkedin.com/in/vukona-jubby-maritz)  
 
 
